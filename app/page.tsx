@@ -56,7 +56,7 @@ export default function LandingPage() {
           <div className="flex gap-6 md:gap-10">
             <Link href="/" className="flex items-center space-x-2">
               <ShoppingCart className="h-6 w-6" />
-              <span className="inline-block font-bold">Ibrahim's Store</span>
+              <span className="inline-block font-bold">Ibrahim&apos;s Store</span>
             </Link>
           </div>
           <div className="flex flex-1 items-center justify-end space-x-4">
@@ -142,7 +142,7 @@ export default function LandingPage() {
       </main>
       <footer className="border-t">
         <div className="container flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6">
-          <p className="text-xs text-muted-foreground">© 2023 Ibrahim's Store. All rights reserved.</p>
+          <p className="text-xs text-muted-foreground">© 2023 Ibrahim&apos;s Store. All rights reserved.</p>
           <nav className="sm:ml-auto flex gap-4 sm:gap-6">
             <Link className="text-xs hover:underline underline-offset-4" href="#">
               Terms of Service
